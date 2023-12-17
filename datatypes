@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#shell script doesnt care about the datatypes
+
+NUM1=$1
+
+NUM2=$2
+
+SUM=$($NUM1+$NUM2)
+
+echo "the output is :: $SUM"
