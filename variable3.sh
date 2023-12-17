@@ -1,5 +1,9 @@
 #/bin/bash
 
+DATE=$(date)
+
+echo "script started executing at :: $DATE"
+
 P1=$1
 
 P2=$2
