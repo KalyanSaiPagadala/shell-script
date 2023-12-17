@@ -1,10 +1,10 @@
 #!/bin/bash
 
-P1=lungi
+P1=kumar
 
-P2=angi
+P2=mark
 
 echo "$P1:: hi $P2"
-echo "$P2:: bye $P1"
-echo "$P2:: ewwww"
-echo "$P1:: thuuuu $P2"
+echo "$P2:: hello $P1"
+echo "$P2:: welcome"
+echo "$P1:: thank you $P2"
